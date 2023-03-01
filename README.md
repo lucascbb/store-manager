@@ -104,7 +104,7 @@ A API construída é um sistema de gerenciamento de vendas no formato dropshippi
 
 <br />
 
-# Requisitos Obrigatórios:
+# Requisitos Do Projeto:
 
 ## 01 - Crie endpoints para listar produtos
 
